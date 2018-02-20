@@ -10,8 +10,8 @@
 // export const SPRING_SERVER_URL = "https://admin-hotel-booking.herokuapp.com/"
 
 //online v1
-const EXPRESS_SERVER_URL = "https://admin-hotel-booking-v1.herokuapp.com/"
-const SPRING_SERVER_URL = "https://hotel-booking-system-v1.herokuapp.com/"
+const EXPRESS_SERVER_URL = "https://hotel-booking-system-v1.herokuapp.com/"
+const SPRING_SERVER_URL = "https://admin-hotel-booking-v1.herokuapp.com/"
 
 
 export const SPRING_RESOURCE_URL = SPRING_SERVER_URL + "resources/"

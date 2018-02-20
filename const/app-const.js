@@ -22,8 +22,8 @@ exports.DB_CONNECTION = DB_HOST_ONLINE;
 // const SPRING_SERVER_URL = "https://admin-hotel-booking.herokuapp.com/";
 
 //online v1
-const MEAN_SERVER_URL = "https://admin-hotel-booking-v1.herokuapp.com/";
-const SPRING_SERVER_URL = "https://hotel-booking-system-v1.herokuapp.com/";
+const MEAN_SERVER_URL = "https://hotel-booking-system-v1.herokuapp.com/";
+const SPRING_SERVER_URL = "https://admin-hotel-booking-v1.herokuapp.com/";
 
 const SPRING_API_URL = SPRING_SERVER_URL + "api/"
 const RESTAURANT_API = 'restaurant/'
