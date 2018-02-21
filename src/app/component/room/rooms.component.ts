@@ -41,6 +41,7 @@ export class RoomsComponent implements OnInit {
     if (this.data.roomComponentName == 'Rooms & Tariff') {
       this.numRoomsEachPage = 6;
       this.roomservice.getAllRooms().subscribe((listrooms: Room[]) => {
+        console.log(listrooms);
         this.listrooms = listrooms
         this.initializeNumPage()
         this.initializeRoomOfPage()
