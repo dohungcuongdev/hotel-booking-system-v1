@@ -112,4 +112,4 @@ export const CANCEL_CONT = "! Please waiting for our response. If your requireme
 export const SENT_FB_ROOM = 'send feedback for room '
 export const NOT_FOUND = "not found"
 export const IMG_NOT_FOUND = NOT_FOUND + ".jpg"
-export const FOOTER = 'Meepo Marina is the best hotel in VietNam with the best facilities and amenity. Come with us, you will have the best holiday in VietNam and enjoy Luxurious rooms, restaurant. Our goal is make you feel relax, comfortable and convenient after stressful working day with the best price of rooms and services.'
+export const FOOTER = 'Marina Meepo is the best hotel in VietNam with the best facilities and amenity. Come with us, you will have the best holiday in VietNam and enjoy Luxurious rooms, restaurant. Our goal is make you feel relax, comfortable and convenient after stressful working day with the best price of rooms and services.'
