@@ -1,4 +1,4 @@
-https://dashboard.heroku.com/apps/hotel-booking-and-reservations/deploy/heroku-git
+https://dashboard.heroku.com/apps/hotel-booking-system-v1/deploy/heroku-git
 https://devcenter.heroku.com/articles/deploying-nodejs
 
 push to server
@@ -15,5 +15,5 @@ push to server
 
 clone code:
 1/ heroku login
-2/ heroku git:clone -a hotel-booking-and-reservations
+2/ heroku git:clone -a hotel-booking-system-v1
 3/ cd hotel-booking-and-reservations
