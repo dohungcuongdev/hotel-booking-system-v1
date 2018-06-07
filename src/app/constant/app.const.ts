@@ -74,7 +74,7 @@ var bookRoomAPI;
 var feedbackRoomAPI;
 
 if(DB_SYSTEM == 'mongodb only') {
-    bookRoomAPI = SPRING_API_URL + ROOM_API
+    bookRoomAPI = ROOM_API
     feedbackRoomAPI = ROOM_API_URL
 }
 
